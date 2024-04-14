@@ -1,4 +1,4 @@
-# Indian Ariculture Analysis
+# Indian Agriculture Analysis
 - This repository contains datasets and notebooks which provide an exploratory data analysis of indian agriculture rom the year 2001-2011.
 - All datasets are publicly available and have been taken from [here](data.gov.in). They are stored in the directory 'data'.
 - Code for the plots is in the notebook 'agriculture_EDA_plots.ipynb'.
