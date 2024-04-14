@@ -1,0 +1,6 @@
+geopandas==0.14.3
+matplotlib==3.7.2
+numpy==1.25.2
+pandas==2.2.2
+plotnine==0.12.4
+seaborn==0.13.2
